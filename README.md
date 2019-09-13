@@ -1,2 +1,2 @@
-# django-sandbox
-Sandbox for Django projects
+# django-recipe-app-api
+Recipe application API
